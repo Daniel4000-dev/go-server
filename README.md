@@ -1,1 +1,1 @@
-[architecture](./static/go-server.png)
+[flow chart](./static/go-server.png)
