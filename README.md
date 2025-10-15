@@ -1,1 +1,1 @@
-[flow chart](./static/go-server.png)
+[flow chart](./public/go-server.png)
