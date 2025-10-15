@@ -1,0 +1,1 @@
+[architecture](./static/go-server.png)
